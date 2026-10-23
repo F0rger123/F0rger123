@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://instagram.com/f0rger_official"><img src="https://img.shields.io/badge/Instagram-f0rger__official-0b1220?style=for-the-badge&logo=instagram&logoColor=22d3ee&labelColor=05070b" alt="Instagram"></a>
   <a href="https://www.instagram.com/agency.zer0/"><img src="https://img.shields.io/badge/Agency%20Zero-agency.zer0-0b1220?style=for-the-badge&logo=instagram&logoColor=22d3ee&labelColor=05070b" alt="Agency Zero on Instagram"></a>
-  <img src="https://komarev.com/ghpvc/?username=F0rger123&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
 <br>
@@ -43,12 +42,8 @@
 
 ### `> toolbox`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,vite,nodejs,supabase,postgres,cloudflare,firebase&theme=dark" alt="TypeScript, React, Next.js, Tailwind, Vite, Node.js, Supabase, Postgres, Cloudflare, Firebase"><br>
-  <img src="https://skillicons.dev/icons?i=python,kotlin,androidstudio,cs,dotnet,electron,githubactions,git,vscode&theme=dark" alt="Python, Kotlin, Android, C#, .NET, Electron, GitHub Actions, Git, VS Code">
-</p>
+<img src=".github/assets/toolbox.svg" alt="Toolbox: TypeScript, React, Next.js, Tailwind, Vite, Supabase, Postgres, Cloudflare Workers, Firebase, Kotlin, Expo, C# and .NET, Electron, Windhawk, Claude Code, Codex, Gemini, MCP servers, Python" width="100%">
 
-<sub>Daily drivers: Claude Code, Codex and Gemini, with a lot of custom skills and MCP servers.</sub>
 
 ### `> stats`
 
