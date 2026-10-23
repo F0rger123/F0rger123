@@ -12,6 +12,27 @@
 
 I'm an 18-year-old software engineer slash professional yet reliant vibe coder who loves to bring his ideas to life. I'm currently trying to take all the top Jarvis open-source models and merge the code into one powerful Jarvis AI.
 
+### 🌌 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/F0rger123/Agency-Zero"><img src="https://github.com/F0rger123/Agency-Zero/raw/main/.github/assets/banner.svg" alt="Agency Zero" /></a><br/><sub><b>Agency Zero</b> · the operating system for a one-person agency</sub></td>
+    <td width="50%"><a href="https://github.com/F0rger123/CLAUDE-SEO-GOD-MODE"><img src="https://github.com/F0rger123/CLAUDE-SEO-GOD-MODE/raw/main/assets/banner.svg" alt="Claude SEO God Mode" /></a><br/><sub><b>Claude SEO God Mode</b> · an all-in-one SEO operating system for Claude</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/F0rger123/dynamic-island-v2"><img src="https://github.com/F0rger123/dynamic-island-v2/raw/main/.github/assets/banner.svg" alt="Dynamic Island" /></a><br/><sub><b>Dynamic Island</b> · the macOS Dynamic Island, rebuilt for Windows</sub></td>
+    <td width="50%"><a href="https://github.com/F0rger123/apex-ugr"><img src="https://github.com/F0rger123/apex-ugr/raw/main/.github/assets/banner.svg" alt="Apex UGR" /></a><br/><sub><b>Apex UGR</b> · invite-only automotive network</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/F0rger123/devspace"><img src="https://github.com/F0rger123/devspace/raw/main/.github/assets/banner.svg" alt="DevSpace" /></a><br/><sub><b>DevSpace</b> · the space for developers, powered by Aether</sub></td>
+    <td width="50%"><a href="https://github.com/F0rger123/jarvis-unified"><img src="https://github.com/F0rger123/jarvis-unified/raw/main/.github/assets/banner.svg" alt="Jarvis Unified" /></a><br/><sub><b>Jarvis Unified</b> · six Jarvis projects fused into one free assistant</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/F0rger123/daily-email-bot"><img src="https://github.com/F0rger123/daily-email-bot/raw/main/.github/assets/banner.svg" alt="Daily Email Bot" /></a><br/><sub><b>Daily Email Bot</b> · commit summaries at 7 AM and 7 PM</sub></td>
+    <td width="50%"><a href="https://github.com/F0rger123/dehaas-remodeling"><img src="https://github.com/F0rger123/dehaas-remodeling/raw/main/.github/assets/banner.svg" alt="DeHaas Remodeling" /></a><br/><sub><b>DeHaas Remodeling</b> · a zero-build site for a PA remodeler</sub></td>
+  </tr>
+</table>
+
 ### 🛠️ Tech Stack
 
 <p align="left">
