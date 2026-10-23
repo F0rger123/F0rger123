@@ -1,105 +1,65 @@
 <p align="center">
-  <a href="https://github.com/F0rger123">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0891b2&fontSize=54&height=90&width=420&text=HEY!" alt="HEY!" />
-  </a>
+  <img src=".github/assets/hero.svg" alt="F0RGER: I build AI tools, CRMs and the apps small businesses actually run on." width="100%">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=900&height=44&lines=I%20build%20AI%20projects%2C%20unhinged%20AI%20assistants%2C%20software%2C%20websites%2C%20etc.;I'm%20currently%20building%20DevSpace%2C%20WholeScaleOS%2C%20and%20Apex%20UGR." alt="Typing headlines" />
+  <a href="https://instagram.com/f0rger_official"><img src="https://img.shields.io/badge/Instagram-f0rger__official-0b1220?style=for-the-badge&logo=instagram&logoColor=22d3ee&labelColor=05070b" alt="Instagram"></a>
+  <a href="https://www.instagram.com/agency.zer0/"><img src="https://img.shields.io/badge/Agency%20Zero-agency.zer0-0b1220?style=for-the-badge&logo=instagram&logoColor=22d3ee&labelColor=05070b" alt="Agency Zero on Instagram"></a>
+  <img src="https://komarev.com/ghpvc/?username=F0rger123&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
-### 🚀 About Me
+<br>
 
-I'm an 18-year-old software engineer slash professional yet reliant vibe coder who loves to bring his ideas to life. I'm currently trying to take all the top Jarvis open-source models and merge the code into one powerful Jarvis AI.
+### `> right now`
 
-### 🌌 Featured Projects
+- **Agency Zero.** The CRM and operating system I run my agency on: clients, quotes, contracts, invoices and a calendar in one app.
+- **Claude skills for marketers.** [SEO God Mode](https://github.com/F0rger123/CLAUDE-SEO-GOD-MODE) and [Meta Ads God Mode](https://github.com/F0rger123/claude-meta-ads-god-mode) turn Claude into an SEO lead and a paid-media operator that can't spend money by accident.
+- **CRMs for real businesses.** Field-service CRMs for cleaning, lighting and remodeling companies, built on one starter that an AI agent customizes per client.
+- **LifeSteal.** An Android app that blocks the feeds, plans your day and shows how much time you took back.
+- **Jarvis.** Merging the best open-source Jarvis assistants into one free, local-first assistant.
+
+### `> featured`
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/F0rger123/Agency-Zero"><img src="https://github.com/F0rger123/Agency-Zero/raw/main/.github/assets/banner.svg" alt="Agency Zero" /></a><br/><sub><b>Agency Zero</b> · the operating system for a one-person agency</sub></td>
-    <td width="50%"><a href="https://github.com/F0rger123/CLAUDE-SEO-GOD-MODE"><img src="https://github.com/F0rger123/CLAUDE-SEO-GOD-MODE/raw/main/assets/banner.svg" alt="Claude SEO God Mode" /></a><br/><sub><b>Claude SEO God Mode</b> · an all-in-one SEO operating system for Claude</sub></td>
+    <td width="50%" valign="top"><a href="https://github.com/F0rger123/Agency-Zero"><img src="https://github.com/F0rger123/Agency-Zero/raw/main/.github/assets/banner.svg" alt="Agency Zero"></a></td>
+    <td width="50%" valign="top"><a href="https://github.com/F0rger123/CLAUDE-SEO-GOD-MODE"><img src="https://github.com/F0rger123/CLAUDE-SEO-GOD-MODE/raw/main/assets/banner.svg" alt="Claude SEO God Mode"></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/F0rger123/dynamic-island-v2"><img src="https://github.com/F0rger123/dynamic-island-v2/raw/main/.github/assets/banner.svg" alt="Dynamic Island" /></a><br/><sub><b>Dynamic Island</b> · the macOS Dynamic Island, rebuilt for Windows</sub></td>
-    <td width="50%"><a href="https://github.com/F0rger123/apex-ugr"><img src="https://github.com/F0rger123/apex-ugr/raw/main/.github/assets/banner.svg" alt="Apex UGR" /></a><br/><sub><b>Apex UGR</b> · invite-only automotive network</sub></td>
+    <td width="50%" valign="top"><a href="https://github.com/F0rger123/claude-meta-ads-god-mode"><img src="https://github.com/F0rger123/claude-meta-ads-god-mode/raw/main/assets/banner.svg" alt="Claude Meta Ads God Mode"></a></td>
+    <td width="50%" valign="top"><a href="https://github.com/F0rger123/dynamic-island-v2"><img src="https://github.com/F0rger123/dynamic-island-v2/raw/main/.github/assets/banner.svg" alt="Dynamic Island for Windows"></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/F0rger123/devspace"><img src="https://github.com/F0rger123/devspace/raw/main/.github/assets/banner.svg" alt="DevSpace" /></a><br/><sub><b>DevSpace</b> · the space for developers, powered by Aether</sub></td>
-    <td width="50%"><a href="https://github.com/F0rger123/jarvis-unified"><img src="https://github.com/F0rger123/jarvis-unified/raw/main/.github/assets/banner.svg" alt="Jarvis Unified" /></a><br/><sub><b>Jarvis Unified</b> · six Jarvis projects fused into one free assistant</sub></td>
+    <td width="50%" valign="top"><a href="https://github.com/F0rger123/apex-ugr"><img src="https://github.com/F0rger123/apex-ugr/raw/main/.github/assets/banner.svg" alt="Apex UGR"></a></td>
+    <td width="50%" valign="top"><a href="https://github.com/F0rger123/devspace"><img src="https://github.com/F0rger123/devspace/raw/main/.github/assets/banner.svg" alt="DevSpace"></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/F0rger123/daily-email-bot"><img src="https://github.com/F0rger123/daily-email-bot/raw/main/.github/assets/banner.svg" alt="Daily Email Bot" /></a><br/><sub><b>Daily Email Bot</b> · commit summaries at 7 AM and 7 PM</sub></td>
-    <td width="50%"><a href="https://github.com/F0rger123/dehaas-remodeling"><img src="https://github.com/F0rger123/dehaas-remodeling/raw/main/.github/assets/banner.svg" alt="DeHaas Remodeling" /></a><br/><sub><b>DeHaas Remodeling</b> · a zero-build site for a PA remodeler</sub></td>
+    <td width="50%" valign="top"><a href="https://github.com/F0rger123/dehaas-remodeling"><img src="https://github.com/F0rger123/dehaas-remodeling/raw/main/.github/assets/banner.svg" alt="DeHaas Remodeling website"></a></td>
+    <td width="50%" valign="top"><a href="https://github.com/F0rger123/jarvis-unified"><img src="https://github.com/F0rger123/jarvis-unified/raw/main/.github/assets/banner.svg" alt="Jarvis Unified"></a></td>
   </tr>
 </table>
 
-### 🛠️ Tech Stack
+<sub>Plus private client work: CRMs, a retro arcade football game, and an Android life OS.</sub>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+### `> toolbox`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,vite,nodejs,supabase,postgres,cloudflare,firebase&theme=dark" alt="TypeScript, React, Next.js, Tailwind, Vite, Node.js, Supabase, Postgres, Cloudflare, Firebase"><br>
+  <img src="https://skillicons.dev/icons?i=python,kotlin,androidstudio,cs,dotnet,electron,githubactions,git,vscode&theme=dark" alt="Python, Kotlin, Android, C#, .NET, Electron, GitHub Actions, Git, VS Code">
 </p>
 
-### 🔗 Connect With Me
+<sub>Daily drivers: Claude Code, Codex and Gemini, with a lot of custom skills and MCP servers.</sub>
 
-<p align="left">
-  <a href="https://instagram.com/f0rger_official" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+### `> stats`
+
+<p>
+  <img height="160" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=F0rger123&show_icons=true&count_private=true&hide_border=true&bg_color=05070b&title_color=22d3ee&icon_color=22d3ee&text_color=c9d6df&ring_color=0891b2" alt="GitHub stats">
+  <img height="160" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=F0rger123&layout=compact&langs_count=8&hide_border=true&bg_color=05070b&title_color=22d3ee&text_color=c9d6df" alt="Top languages">
 </p>
 
-### 📊 GitHub Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/F0rger123/F0rger123/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/F0rger123/F0rger123/output/snake.svg" alt="Contribution graph being eaten by a snake" width="100%">
+</picture>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=F0rger123&show_icons=true&theme=tokyonight&title_color=0891b2&icon_color=0891b2&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=F0rger123&layout=compact&theme=tokyonight&title_color=0891b2&icon_color=0891b2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=F0rger123&bg_color=00000000&color=0891b2&line=0891b2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/F0rger123">F0rger123</a></i></p>
-
-<!--
-**F0rger123/F0rger123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><sub><code>// built with claude code · always shipping</code></sub></p>
