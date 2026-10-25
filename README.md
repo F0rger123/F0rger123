@@ -12,8 +12,8 @@
 ### `> right now`
 
 - **Agency Zero.** The CRM and operating system I run my agency on: clients, quotes, contracts, invoices and a calendar in one app.
-- **Claude skills for marketers.** [SEO God Mode](https://github.com/F0rger123/CLAUDE-SEO-GOD-MODE) and [Meta Ads God Mode](https://github.com/F0rger123/claude-meta-ads-god-mode) turn Claude into an SEO lead and a paid-media operator that can't spend money by accident.
-- **CRMs for real businesses.** Field-service CRMs for cleaning, lighting and remodeling companies, built on one starter that an AI agent customizes per client.
+- **The God Mode suite for Claude.** [SEO](https://github.com/F0rger123/CLAUDE-SEO-GOD-MODE), [Meta Ads](https://github.com/F0rger123/claude-meta-ads-god-mode), [Video Editing](https://github.com/F0rger123/claude-video-editing-god-mode) and [Business](https://github.com/F0rger123/claude-business-god-mode): plug-ins that turn Claude into an SEO lead, a paid-media operator that can't spend money by accident, a video editor, and a business operator.
+- **CRMs for real businesses.** Field-service CRMs for cleaning, lighting and remodeling companies. The [Ultimate CRM Template](https://github.com/F0rger123/ultimate-crm-template) is the open version: an AI agent interviews the owner and builds their CRM from it.
 - **LifeSteal.** An Android app that blocks the feeds, plans your day and shows how much time you took back.
 - **Jarvis.** Merging the best open-source Jarvis assistants into one free, local-first assistant.
 
@@ -21,24 +21,24 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top"><a href="https://github.com/F0rger123/Agency-Zero"><img src="https://github.com/F0rger123/Agency-Zero/raw/main/.github/assets/banner.svg" alt="Agency Zero"></a></td>
     <td width="50%" valign="top"><a href="https://github.com/F0rger123/CLAUDE-SEO-GOD-MODE"><img src="https://github.com/F0rger123/CLAUDE-SEO-GOD-MODE/raw/main/assets/banner.svg" alt="Claude SEO God Mode"></a></td>
+    <td width="50%" valign="top"><a href="https://github.com/F0rger123/claude-meta-ads-god-mode"><img src="https://github.com/F0rger123/claude-meta-ads-god-mode/raw/main/assets/banner.svg" alt="Claude Meta Ads God Mode"></a></td>
   </tr>
   <tr>
-    <td width="50%" valign="top"><a href="https://github.com/F0rger123/claude-meta-ads-god-mode"><img src="https://github.com/F0rger123/claude-meta-ads-god-mode/raw/main/assets/banner.svg" alt="Claude Meta Ads God Mode"></a></td>
+    <td width="50%" valign="top"><a href="https://github.com/F0rger123/claude-video-editing-god-mode"><img src="https://github.com/F0rger123/claude-video-editing-god-mode/raw/main/.github/assets/banner.svg" alt="Claude Video Editing God Mode"></a></td>
+    <td width="50%" valign="top"><a href="https://github.com/F0rger123/claude-business-god-mode"><img src="https://github.com/F0rger123/claude-business-god-mode/raw/main/.github/assets/banner.svg" alt="Claude Business God Mode"></a></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><a href="https://github.com/F0rger123/ultimate-crm-template"><img src="https://github.com/F0rger123/ultimate-crm-template/raw/main/.github/assets/banner.svg" alt="The Ultimate CRM Template"></a></td>
     <td width="50%" valign="top"><a href="https://github.com/F0rger123/dynamic-island-v2"><img src="https://github.com/F0rger123/dynamic-island-v2/raw/main/.github/assets/banner.svg" alt="Dynamic Island for Windows"></a></td>
   </tr>
   <tr>
-    <td width="50%" valign="top"><a href="https://github.com/F0rger123/apex-ugr"><img src="https://github.com/F0rger123/apex-ugr/raw/main/.github/assets/banner.svg" alt="Apex UGR"></a></td>
     <td width="50%" valign="top"><a href="https://github.com/F0rger123/devspace"><img src="https://github.com/F0rger123/devspace/raw/main/.github/assets/banner.svg" alt="DevSpace"></a></td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top"><a href="https://github.com/F0rger123/dehaas-remodeling"><img src="https://github.com/F0rger123/dehaas-remodeling/raw/main/.github/assets/banner.svg" alt="DeHaas Remodeling website"></a></td>
-    <td width="50%" valign="top"><a href="https://github.com/F0rger123/jarvis-unified"><img src="https://github.com/F0rger123/jarvis-unified/raw/main/.github/assets/banner.svg" alt="Jarvis Unified"></a></td>
+    <td width="50%" valign="top"><a href="https://github.com/F0rger123/readme-kit"><img src="https://github.com/F0rger123/readme-kit/raw/main/.github/assets/banner.svg" alt="readme-kit"></a></td>
   </tr>
 </table>
 
-<sub>Plus private client work: CRMs, a retro arcade football game, and an Android life OS.</sub>
+<sub>Plus private work: my agency's CRM, client CRMs and websites, a retro arcade football game, a car-network app and an Android life OS.</sub>
 
 ### `> toolbox`
 
