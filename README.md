@@ -13,7 +13,7 @@
 
 - **Agency Zero.** The CRM and operating system I run my agency on: clients, quotes, contracts, invoices and a calendar in one app.
 - **The God Mode suite for Claude.** [SEO](https://github.com/F0rger123/CLAUDE-SEO-GOD-MODE), [Meta Ads](https://github.com/F0rger123/claude-meta-ads-god-mode), [Video Editing](https://github.com/F0rger123/claude-video-editing-god-mode) and [Business](https://github.com/F0rger123/claude-business-god-mode): plug-ins that turn Claude into an SEO lead, a paid-media operator that can't spend money by accident, a video editor, and a business operator.
-- **CRMs for real businesses.** Field-service CRMs for cleaning, lighting and remodeling companies. The [Ultimate CRM Template](https://github.com/F0rger123/ultimate-crm-template) is the open version: an AI agent interviews the owner and builds their CRM from it.
+- **CRMs for real businesses.** Field-service CRMs for cleaning, lighting and remodeling companies. The Ultimate CRM Template (private for now) is the shared version: an AI agent interviews the owner and builds their CRM from it.
 - **LifeSteal.** An Android app that blocks the feeds, plans your day and shows how much time you took back.
 - **Jarvis.** Merging the best open-source Jarvis assistants into one free, local-first assistant.
 
@@ -29,7 +29,7 @@
     <td width="50%" valign="top"><a href="https://github.com/F0rger123/claude-business-god-mode"><img src="https://github.com/F0rger123/claude-business-god-mode/raw/main/.github/assets/banner.svg" alt="Claude Business God Mode"></a></td>
   </tr>
   <tr>
-    <td width="50%" valign="top"><a href="https://github.com/F0rger123/ultimate-crm-template"><img src="https://github.com/F0rger123/ultimate-crm-template/raw/main/.github/assets/banner.svg" alt="The Ultimate CRM Template"></a></td>
+    <td width="50%" valign="top"><a href="https://github.com/F0rger123/lead-scraper-extension"><img src="https://github.com/F0rger123/lead-scraper-extension/raw/main/.github/assets/banner.svg" alt="Lead Scraper Extension"></a></td>
     <td width="50%" valign="top"><a href="https://github.com/F0rger123/dynamic-island-v2"><img src="https://github.com/F0rger123/dynamic-island-v2/raw/main/.github/assets/banner.svg" alt="Dynamic Island for Windows"></a></td>
   </tr>
   <tr>
