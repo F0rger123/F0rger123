@@ -1,15 +1,15 @@
 <p align="center">
-  <img src=".github/assets/hero.svg" alt="F0RGER: I build AI tools, CRMs and the apps small businesses actually run on." width="100%">
+  <img src=".github/assets/reel.webp" alt="F0RGER. I build AI tools, CRMs, Android apps, Claude plug-ins and websites, then a cover-flow of my public projects. Always shipping." width="100%">
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/f0rger_official"><img src="https://img.shields.io/badge/Instagram-f0rger__official-0b1220?style=for-the-badge&logo=instagram&logoColor=22d3ee&labelColor=05070b" alt="Instagram"></a>
-  <a href="https://www.instagram.com/agency.zer0/"><img src="https://img.shields.io/badge/Agency%20Zero-agency.zer0-0b1220?style=for-the-badge&logo=instagram&logoColor=22d3ee&labelColor=05070b" alt="Agency Zero on Instagram"></a>
+  <a href="https://instagram.com/f0rger_official"><img src="https://img.shields.io/badge/Instagram-f0rger__official-0b1220?style=flat-square&logo=instagram&logoColor=22d3ee&labelColor=05070b" alt="Instagram"></a>
+  <a href="https://www.instagram.com/agency.zer0/"><img src="https://img.shields.io/badge/Agency%20Zero-agency.zer0-0b1220?style=flat-square&logo=instagram&logoColor=22d3ee&labelColor=05070b" alt="Agency Zero on Instagram"></a>
 </p>
 
 <br>
 
-### `> right now`
+## <img src="https://img.shields.io/badge/01-22d3ee?style=flat-square" height="22" alt=""> Now building
 
 - **Agency Zero.** The CRM and operating system I run my agency on: clients, quotes, contracts, invoices and a calendar in one app.
 - **The God Mode suite for Claude.** [SEO](https://github.com/F0rger123/CLAUDE-SEO-GOD-MODE), [Meta Ads](https://github.com/F0rger123/claude-meta-ads-god-mode), [Video Editing](https://github.com/F0rger123/claude-video-editing-god-mode) and [Business](https://github.com/F0rger123/claude-business-god-mode): plug-ins that turn Claude into an SEO lead, a paid-media operator that can't spend money by accident, a video editor, and a business operator.
@@ -17,7 +17,7 @@
 - **LifeSteal.** An Android app that blocks the feeds, plans your day and shows how much time you took back.
 - **Jarvis.** Merging the best open-source Jarvis assistants into one free, local-first assistant.
 
-### `> featured`
+## <img src="https://img.shields.io/badge/02-22d3ee?style=flat-square" height="22" alt=""> Open on GitHub
 
 <table>
   <tr>
@@ -40,12 +40,10 @@
 
 <sub>Plus private work: my agency's CRM, client CRMs and websites, a retro arcade football game, a car-network app and an Android life OS.</sub>
 
-### `> toolbox`
-
-<img src=".github/assets/toolbox.svg" alt="Toolbox: TypeScript, React, Next.js, Tailwind, Vite, Supabase, Postgres, Cloudflare Workers, Firebase, Kotlin, Expo, C# and .NET, Electron, Windhawk, Claude Code, Codex, Gemini, MCP servers, Python" width="100%">
+<img src=".github/assets/toolbox.webp" alt="Toolbox. Front end: TypeScript, React, Next.js, Tailwind, Vite. Back end: Supabase, Postgres, Cloudflare Workers, Firebase, Python. Apps: Kotlin, Expo, C# and .NET, Electron, Windhawk. AI: Claude Code, Codex, Gemini, MCP servers." width="100%">
 
 
-### `> stats`
+## <img src="https://img.shields.io/badge/03-22d3ee?style=flat-square" height="22" alt=""> Activity
 
 <p>
   <img height="160" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=F0rger123&show_icons=true&count_private=true&hide_border=true&bg_color=05070b&title_color=22d3ee&icon_color=22d3ee&text_color=c9d6df&ring_color=0891b2" alt="GitHub stats">
@@ -57,4 +55,4 @@
   <img src="https://raw.githubusercontent.com/F0rger123/F0rger123/output/snake.svg" alt="Contribution graph being eaten by a snake" width="100%">
 </picture>
 
-<p align="center"><sub><code>// built with claude code · always shipping</code></sub></p>
+<p align="center"><sub>Built with Claude Code · always shipping</sub></p>
